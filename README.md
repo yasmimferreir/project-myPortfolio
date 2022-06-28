@@ -8,7 +8,7 @@
  ![portfolio-responsive2](https://user-images.githubusercontent.com/97356148/176272148-c1b4c207-d1f6-4462-a2db-53d49181606c.jpg)
 
  <h2>🌟✔Resultado do projeto Portfólio.
- <h2>🚀 Link da página: https://yasmimferreir.github.io/project-myPortf-lio/
+ <h2>🚀 Link da página: 
 
 <h2>🛠⚙Ajustes e melhorias
 
